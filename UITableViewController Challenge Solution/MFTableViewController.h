@@ -1,5 +1,5 @@
 //
-//  MFViewController.h
+//  MFTableViewController.h
 //  UITableViewController Challenge Solution
 //
 //  Created by Michael Flum on 6/21/14.
@@ -8,6 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface MFViewController : UIViewController
+@interface MFTableViewController : UITableViewController
 
 @end
